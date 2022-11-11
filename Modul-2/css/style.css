@@ -1,0 +1,57 @@
+body {
+    font-family: 'Roboto Regular', 'Roboto Bold', 'Roboto Medium','Raleway Bold', 'Roboto Black', sans-serif ;
+}
+:root {
+    --main-color: #F5F5F5;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+    
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+}
+/* --------Header-------- */
+.header-link {
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+color: #212121;
+}
+.header-mail {
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.header-tel {
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.main-button {
+font-family: inherit;
+font-weight: 700;
+font-size: 16px;
+line-height: 1,87;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+}
+.main-button:hover,
+.main-button:focus {
+background-color: #2196F3;
+}
+
